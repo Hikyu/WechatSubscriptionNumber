@@ -2,7 +2,7 @@
 
 ## 微信公众号
 
-[](./logo/esaybill.jpg)
+[公众号](https://raw.githubusercontent.com/Hikyu/WechatSubscriptionNumber/master/logo/easybill.jpg)
 
 ## 实现功能
 
