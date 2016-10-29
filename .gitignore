@@ -17,4 +17,4 @@ hs_err_pid*
 .project
 
 # keys #
-G:\eclipse\wechat_\src\main\java\space\kyu\wechat_\common\utils\Constants.java
+src/main/java/space/kyu/wechat_/common/utils/Constants.java
